@@ -1,0 +1,6 @@
+You First convert text data to numbers or vector 
+there are two ways to do this 
+1- text to integar
+2- word embeding 
+	 i) Glove
+	ii) word2vec
